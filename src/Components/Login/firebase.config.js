@@ -1,9 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBEaN8UDxGFdHedOn8OAHL7BGyWlqT6RHI",
-  authDomain: "team-work-react-native.firebaseapp.com",
-  projectId: "team-work-react-native",
-  storageBucket: "team-work-react-native.appspot.com",
-  messagingSenderId: "818357293683",
-  appId: "1:818357293683:web:0cf6de67a83653af701006",
+  apiKey: "AIzaSyAeZxHF6ksxLRwac7NN7-1PEzGEeqSt6IQ",
+  authDomain: "online-course-81ed5.firebaseapp.com",
+  projectId: "online-course-81ed5",
+  storageBucket: "online-course-81ed5.appspot.com",
+  messagingSenderId: "786389054964",
+  appId: "1:786389054964:web:892dfae635c8da71e8b5a1",
 };
 export default firebaseConfig;
